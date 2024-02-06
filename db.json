@@ -1,12 +1,3 @@
-# R1-Json-Server
-
-# Installing json-server
-```
-npm install json-server
-```
-
-Adding sample db.json
-```
 {
   "posts": [
     { "id": "1", "title": "a title", "views": 100 },
@@ -20,6 +11,3 @@ Adding sample db.json
     "name": "typicode"
   }
 }
-```
-
-
