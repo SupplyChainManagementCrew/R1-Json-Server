@@ -1,0 +1,183 @@
+[
+    {
+        "date": "2024-01-22",
+        "revenue": 5000,
+        "sales_quantity": 100,
+        "recipient": "John Doe"
+    },
+    {
+        "date": "2024-01-23",
+        "revenue": 7000,
+        "sales_quantity": 120,
+        "recipient": "Jane Smith"
+    },
+    {
+        "date": "2024-01-22",
+        "revenue": 3000,
+        "sales_quantity": 80,
+        "recipient": "Bob Johnson"
+    },
+    {
+        "date": "2024-01-24",
+        "revenue": 4200,
+        "sales_quantity": 90,
+        "recipient": "Alice Williams"
+    },
+    {
+        "date": "2024-01-25",
+        "revenue": 5500,
+        "sales_quantity": 110,
+        "recipient": "Charlie Brown"
+    },
+    {
+        "date": "2024-01-22",
+        "revenue": 4800,
+        "sales_quantity": 95,
+        "recipient": "John Doe"
+    },
+    {
+        "date": "2024-01-23",
+        "revenue": 6300,
+        "sales_quantity": 130,
+        "recipient": "Jane Smith"
+    },
+    {
+        "date": "2024-01-24",
+        "revenue": 3700,
+        "sales_quantity": 70,
+        "recipient": "Bob Johnson"
+    },
+    {
+        "date": "2024-01-25",
+        "revenue": 5900,
+        "sales_quantity": 115,
+        "recipient": "Alice Williams"
+    },
+    {
+        "date": "2024-01-22",
+        "revenue": 6800,
+        "sales_quantity": 140,
+        "recipient": "Charlie Brown"
+    },
+    {
+        "date": "2024-01-23",
+        "revenue": 5200,
+        "sales_quantity": 105,
+        "recipient": "John Doe"
+    },
+    {
+        "date": "2024-01-24",
+        "revenue": 4500,
+        "sales_quantity": 85,
+        "recipient": "Jane Smith"
+    },
+    {
+        "date": "2024-01-25",
+        "revenue": 3400,
+        "sales_quantity": 75,
+        "recipient": "Bob Johnson"
+    },
+    {
+        "date": "2024-01-22",
+        "revenue": 5100,
+        "sales_quantity": 100,
+        "recipient": "Alice Williams"
+    },
+    {
+        "date": "2024-01-23",
+        "revenue": 5900,
+        "sales_quantity": 120,
+        "recipient": "Charlie Brown"
+    },
+    {
+        "date": "2024-01-22",
+        "revenue": 5000,
+        "sales_quantity": 100,
+        "recipient": "John Doe"
+    },
+    {
+        "date": "2024-01-23",
+        "revenue": 7000,
+        "sales_quantity": 120,
+        "recipient": "Jane Smith"
+    },
+    {
+        "date": "2024-01-22",
+        "revenue": 3000,
+        "sales_quantity": 80,
+        "recipient": "Bob Johnson"
+    },
+    {
+        "date": "2024-01-24",
+        "revenue": 4200,
+        "sales_quantity": 90,
+        "recipient": "Alice Williams"
+    },
+    {
+        "date": "2024-01-25",
+        "revenue": 5500,
+        "sales_quantity": 110,
+        "recipient": "Charlie Brown"
+    },
+    {
+        "date": "2024-01-22",
+        "revenue": 4800,
+        "sales_quantity": 95,
+        "recipient": "John Doe"
+    },
+    {
+        "date": "2024-01-23",
+        "revenue": 6300,
+        "sales_quantity": 130,
+        "recipient": "Jane Smith"
+    },
+    {
+        "date": "2024-01-24",
+        "revenue": 3700,
+        "sales_quantity": 70,
+        "recipient": "Bob Johnson"
+    },
+    {
+        "date": "2024-01-25",
+        "revenue": 5900,
+        "sales_quantity": 115,
+        "recipient": "Alice Williams"
+    },
+    {
+        "date": "2024-01-22",
+        "revenue": 6800,
+        "sales_quantity": 140,
+        "recipient": "Charlie Brown"
+    },
+    {
+        "date": "2024-01-23",
+        "revenue": 5200,
+        "sales_quantity": 105,
+        "recipient": "John Doe"
+    },
+    {
+        "date": "2024-01-24",
+        "revenue": 4500,
+        "sales_quantity": 85,
+        "recipient": "Jane Smith"
+    },
+    {
+        "date": "2024-01-25",
+        "revenue": 3400,
+        "sales_quantity": 75,
+        "recipient": "Bob Johnson"
+    },
+    {
+        "date": "2024-01-22",
+        "revenue": 5100,
+        "sales_quantity": 100,
+        "recipient": "Alice Williams"
+    },
+    {
+        "date": "2024-01-23",
+        "revenue": 5900,
+        "sales_quantity": 120,
+        "recipient": "Charlie Brown"
+    }
+]
+
