@@ -1,13 +1,213 @@
-{
-  "posts": [
-    { "id": "1", "title": "a title", "views": 100 },
-    { "id": "2", "title": "another title", "views": 200 }
-  ],
-  "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "Transaction Date": "2024-01-22",
+        "Recipient": "John Doe",
+        "Item": "Amazon Echo Dot",
+        "Sales Quantity": 50,
+        "Unit Price (KRW)": 20500
+    },
+    {
+        "Transaction Date": "2024-01-23",
+        "Recipient": "Jane Smith",
+        "Item": "Fire TV Stick 4K streaming device with Alexa Voice Remote",
+        "Sales Quantity": 30,
+        "Unit Price (KRW)": 15750
+    },
+    {
+        "Transaction Date": "2024-01-24",
+        "Recipient": "Bob Johnson",
+        "Item": "Kindle Paperwhite",
+        "Sales Quantity": 40,
+        "Unit Price (KRW)": 18000
+    },
+    {
+        "Transaction Date": "2024-01-25",
+        "Recipient": "Alice Williams",
+        "Item": "Ring Video Doorbell",
+        "Sales Quantity": 25,
+        "Unit Price (KRW)": 22300
+    },
+    {
+        "Transaction Date": "2024-01-26",
+        "Recipient": "Charlie Brown",
+        "Item": "Blink Mini",
+        "Sales Quantity": 35,
+        "Unit Price (KRW)": 19800
+    },
+    {
+        "Transaction Date": "2024-01-22",
+        "Recipient": "John Doe",
+        "Item": "Amazon Echo Dot",
+        "Sales Quantity": 50,
+        "Unit Price (KRW)": 20500
+    },
+    {
+        "Transaction Date": "2024-01-23",
+        "Recipient": "Jane Smith",
+        "Item": "Fire TV Stick 4K streaming device with Alexa Voice Remote",
+        "Sales Quantity": 30,
+        "Unit Price (KRW)": 15750
+    },
+    {
+        "Transaction Date": "2024-01-24",
+        "Recipient": "Bob Johnson",
+        "Item": "Kindle Paperwhite",
+        "Sales Quantity": 40,
+        "Unit Price (KRW)": 18000
+    },
+    {
+        "Transaction Date": "2024-01-25",
+        "Recipient": "Alice Williams",
+        "Item": "Ring Video Doorbell",
+        "Sales Quantity": 25,
+        "Unit Price (KRW)": 22300
+    },
+    {
+        "Transaction Date": "2024-01-26",
+        "Recipient": "Charlie Brown",
+        "Item": "Blink Mini",
+        "Sales Quantity": 35,
+        "Unit Price (KRW)": 19800
+    },
+    {
+        "Transaction Date": "2024-01-22",
+        "Recipient": "John Doe",
+        "Item": "Amazon Echo Dot",
+        "Sales Quantity": 50,
+        "Unit Price (KRW)": 20500
+    },
+    {
+        "Transaction Date": "2024-01-23",
+        "Recipient": "Jane Smith",
+        "Item": "Fire TV Stick 4K streaming device with Alexa Voice Remote",
+        "Sales Quantity": 30,
+        "Unit Price (KRW)": 15750
+    },
+    {
+        "Transaction Date": "2024-01-24",
+        "Recipient": "Bob Johnson",
+        "Item": "Kindle Paperwhite",
+        "Sales Quantity": 40,
+        "Unit Price (KRW)": 18000
+    },
+    {
+        "Transaction Date": "2024-01-25",
+        "Recipient": "Alice Williams",
+        "Item": "Ring Video Doorbell",
+        "Sales Quantity": 25,
+        "Unit Price (KRW)": 22300
+    },
+    {
+        "Transaction Date": "2024-01-26",
+        "Recipient": "Charlie Brown",
+        "Item": "Blink Mini",
+        "Sales Quantity": 35,
+        "Unit Price (KRW)": 19800
+    },
+    {
+        "Transaction Date": "2024-01-27",
+        "Recipient": "John Doe",
+        "Item": "Echo Show 5 (1st Gen)",
+        "Sales Quantity": 60,
+        "Unit Price (KRW)": 21000
+    },
+    {
+        "Transaction Date": "2024-01-28",
+        "Recipient": "Jane Smith",
+        "Item": "Fire TV Stick Lite with Alexa Voice Remote Lite (no TV controls) | HD streaming device | 2020 release",
+        "Sales Quantity": 40,
+        "Unit Price (KRW)": 16250
+    },
+    {
+        "Transaction Date": "2024-01-29",
+        "Recipient": "Bob Johnson",
+        "Item": "Kindle - with a Built-in Front Light - Black",
+        "Sales Quantity": 35,
+        "Unit Price (KRW)": 19000
+    },
+    {
+        "Transaction Date": "2024-01-30",
+        "Recipient": "Alice Williams",
+        "Item": "Ring Video Doorbell 3 – enhanced wifi, improved motion detection, easy installation",
+        "Sales Quantity": 20,
+        "Unit Price (KRW)": 23000
+    },
+    {
+        "Transaction Date": "2024-01-31",
+        "Recipient": "Charlie Brown",
+        "Item": "Blink Outdoor – wireless, weather-resistant HD security camera with two-year battery life and motion detection",
+        "Sales Quantity": 45,
+        "Unit Price (KRW)": 19500
+    },
+    {
+        "Transaction Date": "2024-01-27",
+        "Recipient": "John Doe",
+        "Item": "Echo Show 5 (1st Gen)",
+        "Sales Quantity": 60,
+        "Unit Price (KRW)": 21000
+    },
+    {
+        "Transaction Date": "2024-01-28",
+        "Recipient": "Jane Smith",
+        "Item": "Fire TV Stick Lite with Alexa Voice Remote Lite (no TV controls) | HD streaming device | 2020 release",
+        "Sales Quantity": 40,
+        "Unit Price (KRW)": 16250
+    },
+    {
+        "Transaction Date": "2024-01-29",
+        "Recipient": "Bob Johnson",
+        "Item": "Kindle - with a Built-in Front Light - Black",
+        "Sales Quantity": 35,
+        "Unit Price (KRW)": 19000
+    },
+    {
+        "Transaction Date": "2024-01-30",
+        "Recipient": "Alice Williams",
+        "Item": "Ring Video Doorbell 3 – enhanced wifi, improved motion detection, easy installation",
+        "Sales Quantity": 20,
+        "Unit Price (KRW)": 23000
+    },
+    {
+        "Transaction Date": "2024-01-31",
+        "Recipient": "Charlie Brown",
+        "Item": "Blink Outdoor – wireless, weather-resistant HD security camera with two-year battery life and motion detection",
+        "Sales Quantity": 45,
+        "Unit Price (KRW)": 19500
+    },
+    {
+        "Transaction Date": "2024-01-27",
+        "Recipient": "John Doe",
+        "Item": "Echo Show 5 (1st Gen)",
+        "Sales Quantity": 60,
+        "Unit Price (KRW)": 21000
+    },
+    {
+        "Transaction Date": "2024-01-28",
+        "Recipient": "Jane Smith",
+        "Item": "Fire TV Stick Lite with Alexa Voice Remote Lite (no TV controls) | HD streaming device | 2020 release",
+        "Sales Quantity": 40,
+        "Unit Price (KRW)": 16250
+    },
+    {
+        "Transaction Date": "2024-01-29",
+        "Recipient": "Bob Johnson",
+        "Item": "Kindle - with a Built-in Front Light - Black",
+        "Sales Quantity": 35,
+        "Unit Price (KRW)": 19000
+    },
+    {
+        "Transaction Date": "2024-01-30",
+        "Recipient": "Alice Williams",
+        "Item": "Ring Video Doorbell 3 – enhanced wifi, improved motion detection, easy installation",
+        "Sales Quantity": 20,
+        "Unit Price (KRW)": 23000
+    },
+    {
+        "Transaction Date": "2024-01-31",
+        "Recipient": "Charlie Brown",
+        "Item": "Blink Outdoor – wireless, weather-resistant HD security camera with two-year battery life and motion detection",
+        "Sales Quantity": 45,
+        "Unit Price (KRW)": 19500
+    }
+]
+
