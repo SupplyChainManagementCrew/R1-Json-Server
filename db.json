@@ -1,13 +1,234 @@
-{
-  "posts": [
-    { "id": "1", "title": "a title", "views": 100 },
-    { "id": "2", "title": "another title", "views": 200 }
-  ],
-  "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "Transaction Date": "2024-01-22",
+        "Recipient": "최성우",
+        "Item": "아마존 에코 닷",
+        "Sales Quantity": 50,
+        "Unit Price (KRW)": 20500
+    },
+    {
+        "Transaction Date": "2024-01-23",
+        "Recipient": "김미영",
+        "Item": "파이어 TV 스틱 4K 스트리밍 장치 with 알렉사 음성 리모컨",
+        "Sales Quantity": 30,
+        "Unit Price (KRW)": 15750
+    },
+    {
+        "Transaction Date": "2024-01-24",
+        "Recipient": "이현주",
+        "Item": "킨들 페이퍼화이트",
+        "Sales Quantity": 40,
+        "Unit Price (KRW)": 18000
+    },
+    {
+        "Transaction Date": "2024-01-25",
+        "Recipient": "이정민",
+        "Item": "링 비디오 도어벨",
+        "Sales Quantity": 25,
+        "Unit Price (KRW)": 22300
+    },
+    {
+        "Transaction Date": "2024-01-26",
+        "Recipient": "홍길동",
+        "Item": "블링크 미니",
+        "Sales Quantity": 35,
+        "Unit Price (KRW)": 19800
+    },
+    {
+        "Transaction Date": "2024-01-22",
+        "Recipient": "최성우",
+        "Item": "아마존 에코 닷",
+        "Sales Quantity": 50,
+        "Unit Price (KRW)": 20500
+    },
+    {
+        "Transaction Date": "2024-01-23",
+        "Recipient": "김미영",
+        "Item": "파이어 TV 스틱 4K 스트리밍 장치 with 알렉사 음성 리모컨",
+        "Sales Quantity": 30,
+        "Unit Price (KRW)": 15750
+    },
+    {
+        "Transaction Date": "2024-01-24",
+        "Recipient": "이현주",
+        "Item": "킨들 페이퍼화이트",
+        "Sales Quantity": 40,
+        "Unit Price (KRW)": 18000
+    },
+    {
+        "Transaction Date": "2024-01-25",
+        "Recipient": "이정민",
+        "Item": "링 비디오 도어벨",
+        "Sales Quantity": 25,
+        "Unit Price (KRW)": 22300
+    },
+    {
+        "Transaction Date": "2024-01-26",
+        "Recipient": "홍길동",
+        "Item": "블링크 미니",
+        "Sales Quantity": 35,
+        "Unit Price (KRW)": 19800
+    },
+    {
+        "Transaction Date": "2024-01-22",
+        "Recipient": "최성우",
+        "Item": "아마존 에코 닷",
+        "Sales Quantity": 50,
+        "Unit Price (KRW)": 20500
+    },
+    {
+        "Transaction Date": "2024-01-23",
+        "Recipient": "김미영",
+        "Item": "파이어 TV 스틱 4K 스트리밍 장치 with 알렉사 음성 리모컨",
+        "Sales Quantity": 30,
+        "Unit Price (KRW)": 15750
+    },
+    {
+        "Transaction Date": "2024-01-24",
+        "Recipient": "이현주",
+        "Item": "킨들 페이퍼화이트",
+        "Sales Quantity": 40,
+        "Unit Price (KRW)": 18000
+    },
+    {
+        "Transaction Date": "2024-01-25",
+        "Recipient": "이정민",
+        "Item": "링 비디오 도어벨",
+        "Sales Quantity": 25,
+        "Unit Price (KRW)": 22300
+    },
+    {
+        "Transaction Date": "2024-01-26",
+        "Recipient": "홍길동",
+        "Item": "블링크 미니",
+        "Sales Quantity": 35,
+        "Unit Price (KRW)": 19800
+    },
+    {
+        "Transaction Date": "2024-01-27",
+        "Recipient": "최성우",
+        "Item": "에코 쇼 5 (1세대)",
+        "Sales Quantity": 60,
+        "Unit Price (KRW)": 21000
+    },
+    {
+        "Transaction Date": "2024-01-28",
+        "Recipient": "김미영",
+        "Item": "파이어 TV 스틱 Lite with 알렉사 음성 리모컨 Lite (TV 제어 불가능) | HD 스트리밍 장치 | 2020 출시",
+        "Sales Quantity": 40,
+        "Unit Price (KRW)": 16250
+    },
+    {
+        "Transaction Date": "2024-01-29",
+        "Recipient": "이현주",
+        "Item": "킨들 - 내장형 프론트 라이트 - 블",
+        "Sales Quantity": 35,
+        "Unit Price (KRW)": 19000
+    },
+    {
+        "Transaction Date": "2024-01-27",
+        "Recipient": "홍길동",
+        "Item": "에코 쇼 5 (1세대)",
+        "Sales Quantity": 60,
+        "Unit Price (KRW)": 21000
+    },
+    {
+        "Transaction Date": "2024-01-28",
+        "Recipient": "김미영",
+        "Item": "파이어 TV 스틱 Lite with 알렉사 음성 리모컨 Lite (TV 제어 불가능) | HD 스트리밍 장치 | 2020 출시",
+        "Sales Quantity": 40,
+        "Unit Price (KRW)": 16250
+    },
+    {
+        "Transaction Date": "2024-01-29",
+        "Recipient": "이현주",
+        "Item": "킨들 - 내장형 프론트 라이트 - 블랙",
+        "Sales Quantity": 35,
+        "Unit Price (KRW)": 19000
+    },
+    {
+        "Transaction Date": "2024-01-30",
+        "Recipient": "이정민",
+        "Item": "링 비디오 도어벨 3 – 향상된 와이파이, 개선된 움직임 감지, 쉬운 설치",
+        "Sales Quantity": 20,
+        "Unit Price (KRW)": 23000
+    },
+    {
+        "Transaction Date": "2024-01-31",
+        "Recipient": "홍길동",
+        "Item": "블링크 아웃도어 – 무선, 내구성 있는 HD 보안 카메라, 2년 배터리 수명 및 움직임 감지",
+        "Sales Quantity": 45,
+        "Unit Price (KRW)": 19500
+    },
+    {
+        "Transaction Date": "2024-01-27",
+        "Recipient": "홍길동",
+        "Item": "에코 쇼 5 (1세대)",
+        "Sales Quantity": 60,
+        "Unit Price (KRW)": 21000
+    },
+    {
+        "Transaction Date": "2024-01-28",
+        "Recipient": "김미영",
+        "Item": "파이어 TV 스틱 Lite with 알렉사 음성 리모컨 Lite (TV 제어 불가능) | HD 스트리밍 장치 | 2020 출시",
+        "Sales Quantity": 40,
+        "Unit Price (KRW)": 16250
+    },
+    {
+        "Transaction Date": "2024-01-29",
+        "Recipient": "이현주",
+        "Item": "킨들 - 내장형 프론트 라이트 - 블랙",
+        "Sales Quantity": 35,
+        "Unit Price (KRW)": 19000
+    },
+    {
+        "Transaction Date": "2024-01-30",
+        "Recipient": "이정민",
+        "Item": "링 비디오 도어벨 3 – 향상된 와이파이, 개선된 움직임 감지, 쉬운 설치",
+        "Sales Quantity": 20,
+        "Unit Price (KRW)": 23000
+    },
+    {
+        "Transaction Date": "2024-01-31",
+        "Recipient": "홍길동",
+        "Item": "블링크 아웃도어 – 무선, 내구성 있는 HD 보안 카메라, 2년 배터리 수명 및 움직임 감지",
+        "Sales Quantity": 45,
+        "Unit Price (KRW)": 19500
+    },
+    {
+        "Transaction Date": "2024-01-27",
+        "Recipient": "홍길동",
+        "Item": "에코 쇼 5 (1세대)",
+        "Sales Quantity": 60,
+        "Unit Price (KRW)": 21000
+    },
+    {
+        "Transaction Date": "2024-01-28",
+        "Recipient": "김미영",
+        "Item": "파이어 TV 스틱 Lite with 알렉사 음성 리모컨 Lite (TV 제어 불가능) | HD 스트리밍 장치 | 2020 출시",
+        "Sales Quantity": 40,
+        "Unit Price (KRW)": 16250
+    },
+    {
+        "Transaction Date": "2024-01-29",
+        "Recipient": "이현주",
+        "Item": "킨들 - 내장형 프론트 라이트 - 블랙",
+        "Sales Quantity": 35,
+        "Unit Price (KRW)": 19000
+    },
+    {
+        "Transaction Date": "2024-01-30",
+        "Recipient": "이정민",
+        "Item": "링 비디오 도어벨 3 – 향상된 와이파이, 개선된 움직임 감지, 쉬운 설치",
+        "Sales Quantity": 20,
+        "Unit Price (KRW)": 23000
+    },
+    {
+        "Transaction Date": "2024-01-31",
+        "Recipient": "홍길동",
+        "Item": "블링크 아웃도어 – 무선, 내구성 있는 HD 보안 카메라, 2년 배터리 수명 및 움직임 감지",
+        "Sales Quantity": 45,
+        "Unit Price (KRW)": 19500
+    }
+]
+
