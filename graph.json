@@ -3,181 +3,170 @@
         "date": "2024-01-22",
         "revenue": 5000,
         "sales_quantity": 100,
-        "recipient": "John Doe"
+        "recipient": "최성우"
     },
     {
         "date": "2024-01-23",
         "revenue": 7000,
         "sales_quantity": 120,
-        "recipient": "Jane Smith"
+        "recipient": "김미영"
     },
     {
         "date": "2024-01-22",
         "revenue": 3000,
         "sales_quantity": 80,
-        "recipient": "Bob Johnson"
+        "recipient": "이현주"
     },
     {
         "date": "2024-01-24",
         "revenue": 4200,
         "sales_quantity": 90,
-        "recipient": "Alice Williams"
+        "recipient": "이정민"
     },
     {
         "date": "2024-01-25",
         "revenue": 5500,
         "sales_quantity": 110,
-        "recipient": "Charlie Brown"
+        "recipient": "홍길동"
     },
     {
         "date": "2024-01-22",
         "revenue": 4800,
         "sales_quantity": 95,
-        "recipient": "John Doe"
+        "recipient": "김지수"
     },
     {
         "date": "2024-01-23",
         "revenue": 6300,
         "sales_quantity": 130,
-        "recipient": "Jane Smith"
+        "recipient": "박준서"
     },
     {
         "date": "2024-01-24",
         "revenue": 3700,
         "sales_quantity": 70,
-        "recipient": "Bob Johnson"
+        "recipient": "김현우"
     },
     {
         "date": "2024-01-25",
         "revenue": 5900,
         "sales_quantity": 115,
-        "recipient": "Alice Williams"
+        "recipient": "이서연"
     },
     {
         "date": "2024-01-22",
         "revenue": 6800,
         "sales_quantity": 140,
-        "recipient": "Charlie Brown"
+        "recipient": "김영호"
     },
     {
         "date": "2024-01-23",
         "revenue": 5200,
         "sales_quantity": 105,
-        "recipient": "John Doe"
+        "recipient": "이민준"
     },
     {
         "date": "2024-01-24",
         "revenue": 4500,
         "sales_quantity": 85,
-        "recipient": "Jane Smith"
+        "recipient": "김다현"
     },
     {
         "date": "2024-01-25",
         "revenue": 3400,
         "sales_quantity": 75,
-        "recipient": "Bob Johnson"
+        "recipient": "박영희"
     },
     {
-        "date": "2024-01-22",
+        "date": "2024-01-26",
+        "revenue": 4800,
+        "sales_quantity": 95,
+        "recipient": "김태우"
+    },
+    {
+        "date": "2024-01-27",
+        "revenue": 6300,
+        "sales_quantity": 130,
+        "recipient": "이지아"
+    },
+    {
+        "date": "2024-01-26",
+        "revenue": 3700,
+        "sales_quantity": 70,
+        "recipient": "박민호"
+    },
+    {
+        "date": "2024-01-28",
+        "revenue": 5900,
+        "sales_quantity": 115,
+        "recipient": "김서영"
+    },
+    {
+        "date": "2024-01-29",
+        "revenue": 6800,
+        "sales_quantity": 140,
+        "recipient": "최승현"
+    },
+    {
+        "date": "2024-01-26",
+        "revenue": 5200,
+        "sales_quantity": 105,
+        "recipient": "정지우"
+    },
+    {
+        "date": "2024-01-27",
+        "revenue": 4500,
+        "sales_quantity": 85,
+        "recipient": "이도현"
+    },
+    {
+        "date": "2024-01-28",
+        "revenue": 3400,
+        "sales_quantity": 75,
+        "recipient": "최민지"
+    },
+    {
+        "date": "2024-01-29",
         "revenue": 5100,
         "sales_quantity": 100,
-        "recipient": "Alice Williams"
+        "recipient": "이지훈"
     },
     {
-        "date": "2024-01-23",
+        "date": "2024-01-26",
         "revenue": 5900,
         "sales_quantity": 120,
-        "recipient": "Charlie Brown"
+        "recipient": "박지민"
     },
     {
-        "date": "2024-01-22",
+        "date": "2024-01-27",
         "revenue": 5000,
         "sales_quantity": 100,
-        "recipient": "John Doe"
+        "recipient": "김태연"
     },
     {
-        "date": "2024-01-23",
+        "date": "2024-01-28",
         "revenue": 7000,
         "sales_quantity": 120,
-        "recipient": "Jane Smith"
+        "recipient": "이성민"
     },
     {
-        "date": "2024-01-22",
+        "date": "2024-01-29",
         "revenue": 3000,
         "sales_quantity": 80,
-        "recipient": "Bob Johnson"
+        "recipient": "최지수"
     },
     {
-        "date": "2024-01-24",
+        "date": "2024-01-26",
         "revenue": 4200,
         "sales_quantity": 90,
-        "recipient": "Alice Williams"
+        "recipient": "김서현"
     },
     {
-        "date": "2024-01-25",
+        "date": "2024-01-27",
         "revenue": 5500,
         "sales_quantity": 110,
-        "recipient": "Charlie Brown"
-    },
-    {
-        "date": "2024-01-22",
-        "revenue": 4800,
-        "sales_quantity": 95,
-        "recipient": "John Doe"
-    },
-    {
-        "date": "2024-01-23",
-        "revenue": 6300,
-        "sales_quantity": 130,
-        "recipient": "Jane Smith"
-    },
-    {
-        "date": "2024-01-24",
-        "revenue": 3700,
-        "sales_quantity": 70,
-        "recipient": "Bob Johnson"
-    },
-    {
-        "date": "2024-01-25",
-        "revenue": 5900,
-        "sales_quantity": 115,
-        "recipient": "Alice Williams"
-    },
-    {
-        "date": "2024-01-22",
-        "revenue": 6800,
-        "sales_quantity": 140,
-        "recipient": "Charlie Brown"
-    },
-    {
-        "date": "2024-01-23",
-        "revenue": 5200,
-        "sales_quantity": 105,
-        "recipient": "John Doe"
-    },
-    {
-        "date": "2024-01-24",
-        "revenue": 4500,
-        "sales_quantity": 85,
-        "recipient": "Jane Smith"
-    },
-    {
-        "date": "2024-01-25",
-        "revenue": 3400,
-        "sales_quantity": 75,
-        "recipient": "Bob Johnson"
-    },
-    {
-        "date": "2024-01-22",
-        "revenue": 5100,
-        "sales_quantity": 100,
-        "recipient": "Alice Williams"
-    },
-    {
-        "date": "2024-01-23",
-        "revenue": 5900,
-        "sales_quantity": 120,
-        "recipient": "Charlie Brown"
+        "recipient": "박준호"
     }
 ]
+
 
