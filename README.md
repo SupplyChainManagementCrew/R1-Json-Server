@@ -1,4 +1,6 @@
 # R1-Json-Server
+![image](https://github.com/SupplyChainManagementCrew/R1-Json-Server/assets/148880521/7dd86e7a-23b4-425b-ba27-a1c7dde22ee7)
+
 
 ## - Installing json-server
 ```
@@ -24,6 +26,8 @@ Serving ./public directory if it exists
 Endpoints:
 http://localhost:3000/
 ```
+## Reference URL
+- https://github.com/typicode/json-server
 # Fly.io
 ![image](https://github.com/SupplyChainManagementCrew/R1-Json-Server/assets/148880521/25f6f92b-e6b0-4eaf-b8ef-45f7b3544f19)
 
