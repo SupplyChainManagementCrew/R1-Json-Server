@@ -31,6 +31,9 @@ http://localhost:3000/
 # Fly.io
 ![image](https://github.com/SupplyChainManagementCrew/R1-Json-Server/assets/148880521/25f6f92b-e6b0-4eaf-b8ef-45f7b3544f19)
 
+## Installing fly.io 
+Reference URL
+- https://fly.io/docs/hands-on/install-flyctl/
 ## Deployment Environments
 ### Machine Sizes
 - shared-1x-cpu@256MB
