@@ -7,7 +7,7 @@
 npm install json-server
 ```
 
-## - JSON SERVER CLI
+## - JSON SERVER CLI11
 ```
 $ npx json-server items_sales.json
 
